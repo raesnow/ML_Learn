@@ -168,7 +168,6 @@ def get_number_from_filename(filename):
     return int(number_group.group(1))
 
 
-
 if __name__ == "__main__":
     # 1. 简单的示例
     # group, labels = create_dataset()
